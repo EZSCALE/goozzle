@@ -2,7 +2,7 @@ package goozzle_test
 
 import (
 	"fmt"
-	"github.com/alexeyco/goozzle"
+	"github.com/ezscale/goozzle"
 	"log"
 	"net/url"
 )

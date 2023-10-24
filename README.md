@@ -18,7 +18,7 @@ import (
 	"log"
 	"net/url"
 
-	"github.com/alexeyco/goozzle"
+	"github.com/EZSCALE/goozzle"
 )
 
 func main() {
